@@ -1,0 +1,4 @@
+Heightmap: 100
+Layer 0: Add RandomValuesLayer 290 100 102
+Layer 1: Add InterpolatedLayer 449 100 109 2 12 1 100 131
+Layer 2: Subtract SimplexLayer 160 0 17 24 0 0 255
